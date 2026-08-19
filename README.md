@@ -16,6 +16,7 @@ Hadoop / Spark / Flink / Kafka / ClickHouse を用いた大規模データ基盤
 | [Flink の Broadcast State で新規ユーザーの行動をリアルタイム集計する](articles/flink-broadcast-state.md) | Broadcast State / Canal CDC / 状態の有効期限 |
 | [Flink SQL で Hive テーブルをディメンションテーブルとして Join する](articles/flink-sql-hive-dim-join.md) | Temporal Table Join / lookup.join.cache.ttl / ORC |
 | [10億件規模のアドホッククエリで Spark と Apache Kylin を実測比較する](articles/spark-vs-kylin-benchmark.md) | Spark / Apache Kylin / OLAP / 技術選定 |
+| [Sqoop2 1.99.6 の本番運用で踏んだ不具合を、OSS のソースまで追って直した記録](articles/sqoop2-source-level-fixes.md) | Sqoop2 / JDBC 方言差 / 境界値バグ |
 
 2016年から2023年にかけて中国の技術ブログ（CSDN・51CTO）で発信した記事のうち、
 現在も有用と思われるものを筆者自身が日本語に書き直して掲載しています。
