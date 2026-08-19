@@ -10,6 +10,9 @@ Hadoop / Spark / Flink / Kafka / ClickHouse を用いた大規模データ基盤
 | 記事 | 主なトピック |
 |---|---|
 | [Flink から MySQL への書き込みを最適化した話](articles/flink-mysql-write-reduction.md) | Flink SQL / 撤回ストリーム / タンブリングウィンドウ / JdbcSink |
+| [Flink から Hive に書き込むときの小さなファイル問題を整理する](articles/flink-hive-small-files.md) | Flink / Hive / HDFS / sink.shuffle-by-partition.enable |
+| [Flink の監視とアラート設計について](articles/flink-monitoring-alerting.md) | Flink WebUI / バックプレッシャー / Kafka lag / YARN |
+| [10億件規模のアドホッククエリで Spark と Apache Kylin を実測比較する](articles/spark-vs-kylin-benchmark.md) | Spark / Apache Kylin / OLAP / 技術選定 |
 
 2016年から2023年にかけて中国の技術ブログ（CSDN・51CTO）で発信した記事のうち、
 現在も有用と思われるものを筆者自身が日本語に書き直して掲載しています。
