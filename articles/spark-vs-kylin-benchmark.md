@@ -3,7 +3,7 @@ title: "10億件規模のアドホッククエリで Spark と Apache Kylin を�
 emoji: "📊"
 type: "tech"
 topics: ["spark", "kylin", "hadoop", "hive", "データ基盤"]
-published: false
+published: true
 ---
 
 :::message
