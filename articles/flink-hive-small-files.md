@@ -3,7 +3,7 @@ title: "Flink から Hive に書き込むときの小さなファイル問題を
 emoji: "🗂️"
 type: "tech"
 topics: ["flink", "hive", "hdfs", "kafka", "データ基盤"]
-published: false
+published: true
 ---
 
 :::message
